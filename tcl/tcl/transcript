@@ -1,0 +1,231 @@
+# do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vmap 2020.4 Lib Mapping Utility 2020.10 Oct 13 2020
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../chapter 2
+# ../chapter 3
+# ../chapter 4
+# ../chapter 5
+# ../chapter 6
+# ..
+# ../src/inc
+# wlf/vsim.wlf
+# ref_sim
+# 1 us
+# uut
+# ../chapter 2/chapter22.sv
+# ../chapter 2/chapter25.sv
+# ../chapter 2/chapter27.sv
+# ../chapter 2/chapter28.sv
+# ../chapter 3/chapter31.sv
+# ../chapter 3/chapter34.sv
+# ../chapter 3/chapter35.sv
+# ../chapter 4/block_tb.sv
+# ../chapter 4/interface.sv
+# ../chapter 5/chapter51.sv
+# ../chapter 5/chapter52.sv
+# ../chapter 5/chapter53.sv
+# ../chapter 5/chapter58.sv
+# ../chapter 5/chapter59.sv
+# ../chapter 6/chapter61.sv
+# ../chapter 6/chapter62.sv
+# ../chapter 6/chapter64.sv
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 2/chapter22.sv 
+# -- Compiling module chapter22
+# 
+# Top level modules:
+# 	chapter22
+# End time: 17:03:53 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 2/chapter25.sv 
+# -- Compiling module chapter25
+# 
+# Top level modules:
+# 	chapter25
+# End time: 17:03:53 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 2/chapter27.sv 
+# -- Compiling module chapter27
+# 
+# Top level modules:
+# 	chapter27
+# End time: 17:03:53 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 2/chapter28.sv 
+# -- Compiling module chapter28
+# 
+# Top level modules:
+# 	chapter28
+# End time: 17:03:53 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 3/chapter31.sv 
+# -- Compiling module chapter31
+# 
+# Top level modules:
+# 	chapter31
+# End time: 17:03:53 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:53 on Nov 30,2024
+# vlog ../chapter 3/chapter34.sv 
+# -- Compiling module chapter34
+# 
+# Top level modules:
+# 	chapter34
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 3/chapter35.sv 
+# -- Compiling module chapter35
+# 
+# Top level modules:
+# 	chapter35
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 4/block_tb.sv 
+# -- Compiling module block_tb
+# 
+# Top level modules:
+# 	block_tb
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 4/interface.sv 
+# -- Compiling interface my_if
+# 
+# Top level modules:
+# 	--none--
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 5/chapter51.sv 
+# -- Compiling package chapter51_sv_unit
+# -- Compiling module chapter51
+# 
+# Top level modules:
+# 	chapter51
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 5/chapter52.sv 
+# -- Compiling package chapter52_sv_unit
+# -- Compiling module chapter52
+# 
+# Top level modules:
+# 	chapter52
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 5/chapter53.sv 
+# -- Compiling package chapter53_sv_unit
+# -- Compiling module chapter53
+# 
+# Top level modules:
+# 	chapter53
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 5/chapter58.sv 
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 5/chapter59.sv 
+# End time: 17:03:54 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:54 on Nov 30,2024
+# vlog ../chapter 6/chapter61.sv 
+# -- Compiling package chapter61_sv_unit
+# -- Compiling module chapter61
+# 
+# Top level modules:
+# 	chapter61
+# End time: 17:03:55 on Nov 30,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:55 on Nov 30,2024
+# vlog ../chapter 6/chapter62.sv 
+# -- Compiling package chapter62_sv_unit
+# 
+# Top level modules:
+# 	--none--
+# End time: 17:03:55 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+# Start time: 17:03:55 on Nov 30,2024
+# vlog ../chapter 6/chapter64.sv 
+# -- Compiling package chapter64_sv_unit
+# -- Compiling module chapter64
+# 
+# Top level modules:
+# 	chapter64
+# End time: 17:03:55 on Nov 30,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -c -do "run -all;" chapter22 
+# Start time: 17:04:01 on Nov 30,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# //  ModelSim SE-64 2020.4 Oct 13 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.chapter22(fast)
+# run -all
+# 
+# 
+# my_mem[2] = my_logicmem[4]
+# ==========================
+# Before :
+# my_mem = '{165, 165, 165}
+# my_logicmem = '{0, 1, 2, 3}
+# my_logic = 15
+# After :
+# my_mem = '{165, 165, 0}
+# my_logicmem = '{0, 1, 2, 3}
+# my_logic = 15
+# 
+# 
+# my_logic = my_logicmem[4] ; 
+# ==========================
+# Before :
+# my_mem = '{165, 165, 0}
+# my_logicmem = '{0, 1, 2, 3}
+# my_logic = 15
+# After :
+# my_mem = '{165, 165, 0}
+# my_logicmem = '{0, 1, 2, 3}
+# my_logic = x
+# 
+# End time: 17:06:53 on Nov 30,2024, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 0

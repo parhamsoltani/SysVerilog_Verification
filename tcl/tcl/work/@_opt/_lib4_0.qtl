@@ -1,0 +1,642 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+Z0 !s99 nomlopt
+R0
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/users/lenovo/desktop/sut/term 7/parman/systemVerilog excercises/chapter 3/sim
+T_opt
+!s110 1732367861
+V[A^3g0IQzo=Mn8mkf]Nm:0
+04 9 4 work chapter35 fast 0
+=1-e88088fcb4eb-6741d5f4-383-30d0
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+T_opt1
+!s110 1732367506
+V@EmIT@6V;5>[4D69nLHVk2
+04 9 4 work chapter22 fast 0
+=1-e88088fcb4eb-6741d491-3c3-5c7c
+R2
+R3
+n@_opt1
+R4
+R1
+T_opt2
+!s110 1732367458
+V8:47cn>U5HEa<Tg;b<7]c1
+04 9 4 work chapter31 fast 0
+=1-e88088fcb4eb-6741d462-203-74a0
+R2
+R3
+n@_opt2
+R4
+R1
+vchapter2
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1732366067
+!i10b 1
+!s100 `Dbl4_IHK?hzh?B?SiWPf0
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGE<DQmZae1ZXzH6lAZ`D03
+S1
+Z7 dC:/Users/Lenovo/Desktop/SUT/Term 7/Parman/systemVerilog excercises/tcl
+w1732109465
+Z8 8../chapter 2/chapter22.sv
+Z9 F../chapter 2/chapter22.sv
+!i122 125
+L0 1 43
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1732366067.000000
+Z12 !s107 ../chapter 2/chapter22.sv|
+Z13 !s90 ../chapter 2/chapter22.sv|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vchapter22
+R5
+Z15 !s110 1732367852
+!i10b 1
+!s100 3590]in<:V0WHVe?]U^2b3
+R6
+IBZz?c09:DXnCGBm`Rb@Y@1
+S1
+R7
+w1732367295
+R8
+R9
+!i122 220
+L0 1 44
+R10
+R11
+r1
+!s85 0
+31
+Z16 !s108 1732367852.000000
+R12
+R13
+!i113 0
+R14
+R3
+vchapter25
+R5
+R15
+!i10b 1
+!s100 ^7FdEPOIVHjNiiTV0R6920
+R6
+Ij7;BeiV5e;b_0z=ffV;m20
+S1
+R7
+w1732367328
+8../chapter 2/chapter25.sv
+F../chapter 2/chapter25.sv
+!i122 221
+L0 1 20
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 ../chapter 2/chapter25.sv|
+!s90 ../chapter 2/chapter25.sv|
+!i113 0
+R14
+R3
+vchapter27
+R5
+R15
+!i10b 1
+!s100 88je1<kkdKHzKoG0;cH9K3
+R6
+I`[QFkz4Y6]JJWEI<XH@0n2
+S1
+R7
+w1732367292
+Z17 8../chapter 2/chapter27.sv
+Z18 F../chapter 2/chapter27.sv
+!i122 222
+L0 1 30
+R10
+R11
+r1
+!s85 0
+31
+R16
+Z19 !s107 ../chapter 2/chapter27.sv|
+Z20 !s90 ../chapter 2/chapter27.sv|
+!i113 0
+R14
+R3
+vchapter28
+R5
+R15
+!i10b 1
+!s100 jc1H_IU:ObX]W:;85YaeK1
+R6
+IQz2Fm^?P;KeRX5LZ@eNFG3
+S1
+R7
+w1732364827
+8../chapter 2/chapter28.sv
+F../chapter 2/chapter28.sv
+!i122 223
+L0 1 21
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 ../chapter 2/chapter28.sv|
+!s90 ../chapter 2/chapter28.sv|
+!i113 0
+R14
+R3
+vchapter31
+R5
+R15
+!i10b 1
+!s100 J_k6Mna3M;lo>HRU5o_9@3
+R6
+If1nbD?keFcEk`d00]AVBf0
+S1
+R7
+w1732362107
+8../chapter 3/chapter31.sv
+F../chapter 3/chapter31.sv
+!i122 224
+L0 3 25
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 ../chapter 3/chapter31.sv|
+!s90 ../chapter 3/chapter31.sv|
+!i113 0
+R14
+R3
+vchapter32
+R5
+!s110 1732364583
+!i10b 1
+!s100 0EmiJn6^BbIYn@73_Ze]Q1
+R6
+IT=3QX7FGV]:c]3V9L4U[Z1
+S1
+dC:/Users/Lenovo/Desktop/SUT/Term 7/Parman/systemVerilog excercises/chapter 3/sim
+w1732117087
+8../src/chapter32.sv
+F../src/chapter32.sv
+!i122 104
+L0 3 20
+R10
+R11
+r1
+!s85 0
+31
+!s108 1732364583.000000
+!s107 ../src/chapter32.sv|
+!s90 ../src/chapter32.sv|
+!i113 0
+R14
+R3
+vchapter35
+R5
+R15
+!i10b 1
+!s100 6jV@P5[^GS>k74K0a9C?<2
+R6
+I2N9liMA@:H3TdTAUoaCK>1
+S1
+R7
+w1732367838
+8../chapter 3/chapter35.sv
+F../chapter 3/chapter35.sv
+!i122 225
+L0 4 20
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 ../chapter 3/chapter35.sv|
+!s90 ../chapter 3/chapter35.sv|
+!i113 0
+R14
+R3
+vmemory
+R5
+!s110 1732367174
+!i10b 1
+!s100 M3K`hUoj4kdjknnc1LUkI3
+R6
+I_^CPJ@eC3G]fTioe8og;Q2
+S1
+R7
+w1732113080
+R17
+R18
+!i122 195
+L0 1 29
+R10
+R11
+r1
+!s85 0
+31
+!s108 1732367174.000000
+R19
+R20
+!i113 0
+R14
+R3
+m255
+K4
+z2
+!s8c locked
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+dC:/cygwin/pc_home/rhino/buildsites/2020.p/builds/win64/modeltech
+XMTI_CSTDLIB
+Z0 DXx4 work 3 STD 0 22 C5P`]aF5g@jYQiTVH86>n3
+Z1 !s110 1602644225
+!i10b 1
+!s100 icQCI_Oj3>0h:SB`A4JWn0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2B]QM]?FN1P9NZGF>TCVV0
+S1
+!s86 1
+Z3 d$MODEL_TECH/..
+Z4 w1602644073
+Z5 8verilog_src/dpi_cpack/dpi_cpackages.sv
+Z6 Fverilog_src/dpi_cpack/dpi_cpackages.sv
+!i122 3
+Z7 L0 17 0
+V2B]QM]?FN1P9NZGF>TCVV0
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1602644225.000000
+Z10 !s107 verilog_src/dpi_cpack/dpi_cpackages.sv|
+Z11 !s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z12 o-suppress 12110 -debuglib -u -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+n@m@t@i_@c@s@t@d@l@i@b
+Xmti_cstdlib
+Z14 DXx4 work 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 OW0mb1CF=jV3nlik?oMRV0
+R2
+I7YQT9N??5=d:Wzg^n=:fZ2
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R7
+V7YQT9N??5=d:Wzg^n=:fZ2
+R8
+r1
+!s85 0
+31
+R9
+R10
+Z15 !s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z16 o-suppress 12110 -debuglib -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R13
+XMTI_CSTRING
+R0
+R1
+!i10b 1
+!s100 kDlQo?nkDBVoK<AS]3QjD1
+R2
+ILecfHDQ26AMY35bfFmmT_3
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z17 L0 28 0
+VLecfHDQ26AMY35bfFmmT_3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@c@s@t@r@i@n@g
+Xmti_cstring
+R14
+R1
+!i10b 1
+!s100 KaVS423PbHN8BiZUD@GGL2
+R2
+I]IJ]dNQG`4CJEj@oIV4_Y1
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R17
+V]IJ]dNQG`4CJEj@oIV4_Y1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_DEBUG
+R0
+R1
+!i10b 1
+!s100 TB]^ezUTiRTalgCgbO]<l3
+R2
+ILT0iZ><B;KMlBmS_S<>bW2
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z18 L0 47 0
+VLT0iZ><B;KMlBmS_S<>bW2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@d@e@b@u@g
+Xmti_debug
+R14
+R1
+!i10b 1
+!s100 ^b=Bi@Q2JjgYiFl;:40Sc1
+R2
+IMhYD3DEHh;3nkFMn>d<UC3
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R18
+VMhYD3DEHh;3nkFMn>d<UC3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_FCOVER
+R0
+Z19 !s110 1602644226
+!i10b 1
+!s100 fK:8]FFZh3P`7Fl@:5aC70
+R2
+I0OQnzn:_bU33b7^0l3Zfk1
+S1
+!s86 1
+R3
+Z20 w1602644074
+Z21 8verilog_src/mti_sv/fcover.sv
+Z22 Fverilog_src/mti_sv/fcover.sv
+!i122 7
+Z23 L0 5 0
+V0OQnzn:_bU33b7^0l3Zfk1
+R8
+r1
+!s85 0
+31
+Z24 !s108 1602644226.000000
+Z25 !s107 verilog_src/mti_sv/fcover.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R12
+R13
+n@m@t@i_@f@c@o@v@e@r
+Xmti_fcover
+R14
+R19
+!i10b 1
+!s100 efa[11Ul`>0g6:zg_Xi1E0
+R2
+IIh9jDXlg9:E34a:]f_gAg1
+S1
+R3
+R20
+R21
+R22
+!i122 6
+R23
+VIh9jDXlg9:E34a:]f_gAg1
+R8
+r1
+!s85 0
+31
+R24
+R25
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R16
+R13
+XMTI_FLI
+R0
+R1
+!i10b 1
+!s100 n_2PQUlSo15MDNG48]QWl2
+R2
+I>zPK83f9c>_UScHVSd;CN2
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z26 L0 4 0
+V>zPK83f9c>_UScHVSd;CN2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@f@l@i
+Xmti_fli
+R14
+R1
+!i10b 1
+!s100 kSbeP86I0@SfQi;i57@W00
+R2
+IB85Hkm<ANkM<`JN1dFJde3
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R26
+VB85Hkm<ANkM<`JN1dFJde3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_SCDPI
+R0
+R19
+!i10b 1
+!s100 L3B:Y?;k0V0PDi<?0ec=93
+R2
+I5fToGUlJlG5K2mk3MRG<21
+S1
+!s86 1
+R3
+R20
+Z27 8verilog_src/dpi_cpack/scdpi.sv
+Z28 Fverilog_src/dpi_cpack/scdpi.sv
+!i122 5
+Z29 L0 1 0
+V5fToGUlJlG5K2mk3MRG<21
+R8
+r1
+!s85 0
+31
+R24
+Z30 !s107 verilog_src/dpi_cpack/scdpi.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R12
+R13
+n@m@t@i_@s@c@d@p@i
+Xmti_scdpi
+R14
+R19
+!i10b 1
+!s100 Y]PX:=_5`zJ63fMJVe^_M3
+R2
+IOjFKWz`5YeLO>M8M6l4Q:3
+S1
+R3
+R20
+R27
+R28
+!i122 4
+R29
+VOjFKWz`5YeLO>M8M6l4Q:3
+R8
+r1
+!s85 0
+31
+R9
+R30
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R16
+R13
+XSTD
+R1
+!i10b 1
+!s100 EKK>A5XKXXLOz9iKzP2G81
+R2
+IC5P`]aF5g@jYQiTVH86>n3
+S1
+!s86 1
+R3
+R20
+Z31 8verilog_src/std/std.sv
+Z32 Fverilog_src/std/std.sv
+!i122 1
+Z33 L0 6 0
+VC5P`]aF5g@jYQiTVH86>n3
+R8
+r1
+!s85 0
+31
+R9
+Z34 !s107 verilog_src/std/std.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R12
+R13
+n@s@t@d
+Xstd
+R1
+!i10b 1
+!s100 ]i[_JOYIoOMc`AEjL2EkC0
+R2
+I9oUSJO;AeEaW`l:M@^WG92
+S1
+R3
+R20
+R31
+R32
+!i122 0
+R33
+V9oUSJO;AeEaW`l:M@^WG92
+R8
+r1
+!s85 0
+31
+R9
+R34
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R16
+R13

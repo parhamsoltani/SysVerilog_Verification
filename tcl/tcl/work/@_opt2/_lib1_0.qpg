@@ -1,0 +1,680 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+R0
+R0
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/users/lenovo/desktop/sut/term 7/parman/systemVerilog excercises/chapter 3/sim
+T_opt
+!s110 1732367861
+V[A^3g0IQzo=Mn8mkf]Nm:0
+04 9 4 work chapter35 fast 0
+=1-e88088fcb4eb-6741d5f4-383-30d0
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R1
+T_opt1
+!s110 1732972389
+VT^FHVK@EMj>JeW@QlW@b=1
+04 9 4 work chapter62 fast 0
+=1-e88088fcb4eb-674b0f65-26-4d98
+R2
+R3
+n@_opt1
+R4
+R1
+T_opt2
+!s110 1732973642
+VaEU?z<BVUK@OGdnH@_TCV3
+04 9 4 work chapter22 fast 0
+=1-e88088fcb4eb-674b1449-309-7204
+R2
+R3
+n@_opt2
+R4
+vblock
+!s110 1732719122
+!i10b 1
+!s100 zhKA_SGY1Lz:^U54PEKnN2
+IKh<[6h0R`iUemFJ3Jl@h60
+dC:/users/lenovo/desktop/sut/Term 7/parman/systemVerilog excercises/tcl
+w1732716535
+8../chapter 4/block.v
+F../chapter 4/block.v
+!i122 876
+L0 3 18
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1732719122.000000
+!s107 ../chapter 4/block.v|
+!s90 -reportprogress|300|../chapter 4/block.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vblock_tb
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1732973634
+!i10b 1
+!s100 >[m^6LzdXOG<m1RSAWJH90
+Z9 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^o[Qhg8M[7[RPdo59DzzX3
+S1
+Z10 dC:/Users/Lenovo/Desktop/SUT/Term 7/Parman/systemVerilog excercises/tcl
+w1732719278
+8../chapter 4/block_tb.sv
+F../chapter 4/block_tb.sv
+!i122 2165
+L0 3 54
+R5
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1732973634.000000
+!s107 ../chapter 4/block_tb.sv|
+!s90 ../chapter 4/block_tb.sv|
+!i113 0
+R6
+R3
+vchapter2
+R7
+!s110 1732366067
+!i10b 1
+!s100 `Dbl4_IHK?hzh?B?SiWPf0
+R9
+IGE<DQmZae1ZXzH6lAZ`D03
+S1
+R10
+w1732109465
+Z13 8../chapter 2/chapter22.sv
+Z14 F../chapter 2/chapter22.sv
+!i122 125
+L0 1 43
+R5
+R11
+r1
+!s85 0
+31
+!s108 1732366067.000000
+Z15 !s107 ../chapter 2/chapter22.sv|
+Z16 !s90 ../chapter 2/chapter22.sv|
+!i113 0
+R6
+R3
+vchapter22
+R7
+Z17 !s110 1732973633
+!i10b 1
+!s100 3590]in<:V0WHVe?]U^2b3
+R9
+IBZz?c09:DXnCGBm`Rb@Y@1
+S1
+R10
+w1732367295
+R13
+R14
+!i122 2158
+L0 1 44
+R5
+R11
+r1
+!s85 0
+31
+Z18 !s108 1732973633.000000
+R15
+R16
+!i113 0
+R6
+R3
+vchapter25
+R7
+R17
+!i10b 1
+!s100 ^7FdEPOIVHjNiiTV0R6920
+R9
+Ij7;BeiV5e;b_0z=ffV;m20
+S1
+R10
+w1732367328
+8../chapter 2/chapter25.sv
+F../chapter 2/chapter25.sv
+!i122 2159
+L0 1 20
+R5
+R11
+r1
+!s85 0
+31
+R18
+!s107 ../chapter 2/chapter25.sv|
+!s90 ../chapter 2/chapter25.sv|
+!i113 0
+R6
+R3
+vchapter27
+R7
+R17
+!i10b 1
+!s100 88je1<kkdKHzKoG0;cH9K3
+R9
+I`[QFkz4Y6]JJWEI<XH@0n2
+S1
+R10
+w1732367292
+Z19 8../chapter 2/chapter27.sv
+Z20 F../chapter 2/chapter27.sv
+!i122 2160
+L0 1 30
+R5
+R11
+r1
+!s85 0
+31
+R18
+Z21 !s107 ../chapter 2/chapter27.sv|
+Z22 !s90 ../chapter 2/chapter27.sv|
+!i113 0
+R6
+R3
+vchapter28
+R7
+R17
+!i10b 1
+!s100 jc1H_IU:ObX]W:;85YaeK1
+R9
+IQz2Fm^?P;KeRX5LZ@eNFG3
+S1
+R10
+w1732364827
+8../chapter 2/chapter28.sv
+F../chapter 2/chapter28.sv
+!i122 2161
+L0 1 21
+R5
+R11
+r1
+!s85 0
+31
+R18
+!s107 ../chapter 2/chapter28.sv|
+!s90 ../chapter 2/chapter28.sv|
+!i113 0
+R6
+R3
+vchapter31
+R7
+R17
+!i10b 1
+!s100 J_k6Mna3M;lo>HRU5o_9@3
+R9
+If1nbD?keFcEk`d00]AVBf0
+S1
+R10
+w1732362107
+8../chapter 3/chapter31.sv
+F../chapter 3/chapter31.sv
+!i122 2162
+Z23 L0 3 25
+R5
+R11
+r1
+!s85 0
+31
+R18
+!s107 ../chapter 3/chapter31.sv|
+!s90 ../chapter 3/chapter31.sv|
+!i113 0
+R6
+R3
+vchapter32
+R7
+!s110 1732364583
+!i10b 1
+!s100 0EmiJn6^BbIYn@73_Ze]Q1
+R9
+IT=3QX7FGV]:c]3V9L4U[Z1
+S1
+dC:/Users/Lenovo/Desktop/SUT/Term 7/Parman/systemVerilog excercises/chapter 3/sim
+w1732117087
+8../src/chapter32.sv
+F../src/chapter32.sv
+!i122 104
+L0 3 20
+R5
+R11
+r1
+!s85 0
+31
+!s108 1732364583.000000
+!s107 ../src/chapter32.sv|
+!s90 ../src/chapter32.sv|
+!i113 0
+R6
+R3
+vchapter34
+R7
+R17
+!i10b 1
+!s100 nj^OHAGe^6<;zTf1mnGCV3
+R9
+Id[bQhJo_k;dK7dDo_E4Go1
+S1
+R10
+w1732368584
+8../chapter 3/chapter34.sv
+F../chapter 3/chapter34.sv
+!i122 2163
+L0 3 7
+R5
+R11
+r1
+!s85 0
+31
+R18
+!s107 ../chapter 3/chapter34.sv|
+!s90 ../chapter 3/chapter34.sv|
+!i113 0
+R6
+R3
+vchapter35
+R7
+R8
+!i10b 1
+!s100 i@STazg40c0=TnG6l[QnJ3
+R9
+I9ZN`d4N_8?On67<M87B[n2
+S1
+R10
+w1732368419
+8../chapter 3/chapter35.sv
+F../chapter 3/chapter35.sv
+!i122 2164
+L0 4 24
+R5
+R11
+r1
+!s85 0
+31
+R12
+!s107 ../chapter 3/chapter35.sv|
+!s90 ../chapter 3/chapter35.sv|
+!i113 0
+R6
+R3
+vchapter42
+R7
+!s110 1732710705
+!i10b 1
+!s100 h8^?jfWe60<g;2>B@zfBf1
+R9
+Il0HGcB^O__;a5<eT9M93o0
+S1
+R10
+w1732709102
+8../chapter 4/chapter42.sv
+F../chapter 4/chapter42.sv
+!i122 545
+R23
+R5
+R11
+r1
+!s85 0
+31
+!s108 1732710705.000000
+!s107 ../chapter 4/chapter42.sv|
+!s90 ../chapter 4/chapter42.sv|
+!i113 0
+R6
+R3
+vchapter51
+R7
+DXx4 work 17 chapter51_sv_unit 0 22 L^V71T8nW:z5jXGnN6FjY2
+R8
+R5
+r1
+!s85 0
+!i10b 1
+!s100 Q:]R6A]Jc^JWnca[k2jID2
+I:M]zN@?o6<;Fj3NE^:G:70
+!s105 chapter51_sv_unit
+S1
+R10
+Z24 w1732722046
+Z25 8../chapter 5/chapter51.sv
+Z26 F../chapter 5/chapter51.sv
+!i122 2167
+L0 12 13
+R11
+31
+R12
+Z27 !s107 ../chapter 5/chapter51.sv|
+Z28 !s90 ../chapter 5/chapter51.sv|
+!i113 0
+R6
+R3
+Xchapter51_sv_unit
+R7
+R8
+VL^V71T8nW:z5jXGnN6FjY2
+r1
+!s85 0
+!i10b 1
+!s100 jjckf]2m4czUDJW3b_Q:f3
+IL^V71T8nW:z5jXGnN6FjY2
+!i103 1
+S1
+R10
+R24
+R25
+R26
+!i122 2167
+Z29 L0 1 0
+R11
+31
+R12
+R27
+R28
+!i113 0
+R6
+R3
+vchapter52
+R7
+DXx4 work 17 chapter52_sv_unit 0 22 YhEbfJ^RVG[ak?zXeHGjg1
+R8
+R5
+r1
+!s85 0
+!i10b 1
+!s100 >Y1IVfeP]8X<6;O@_g]B12
+IbW5F:g_Mg?oZhTeZ:EfFZ1
+!s105 chapter52_sv_unit
+S1
+R10
+Z30 w1732962116
+Z31 8../chapter 5/chapter52.sv
+Z32 F../chapter 5/chapter52.sv
+!i122 2168
+L0 17 11
+R11
+31
+R12
+Z33 !s107 ../chapter 5/chapter52.sv|
+Z34 !s90 ../chapter 5/chapter52.sv|
+!i113 0
+R6
+R3
+Xchapter52_sv_unit
+R7
+R8
+VYhEbfJ^RVG[ak?zXeHGjg1
+r1
+!s85 0
+!i10b 1
+!s100 b<a;9Pi;150Kl?hBh]zbB3
+IYhEbfJ^RVG[ak?zXeHGjg1
+!i103 1
+S1
+R10
+R30
+R31
+R32
+!i122 2168
+R29
+R11
+31
+R12
+R33
+R34
+!i113 0
+R6
+R3
+vchapter53
+R7
+DXx4 work 17 chapter53_sv_unit 0 22 QP0I2_Z;3eWRFTenUnTk12
+R8
+R5
+r1
+!s85 0
+!i10b 1
+!s100 BQ81HeaMJRhEbI`ffS=o>3
+Ik4YmU@m7li7?`kRBKbbSR3
+!s105 chapter53_sv_unit
+S1
+R10
+Z35 w1732963360
+Z36 8../chapter 5/chapter53.sv
+Z37 F../chapter 5/chapter53.sv
+!i122 2169
+L0 17 15
+R11
+31
+R12
+Z38 !s107 ../chapter 5/chapter53.sv|
+Z39 !s90 ../chapter 5/chapter53.sv|
+!i113 0
+R6
+R3
+Xchapter53_sv_unit
+R7
+R8
+VQP0I2_Z;3eWRFTenUnTk12
+r1
+!s85 0
+!i10b 1
+!s100 ;n1CegIg650Sb=Ja<jE8e3
+IQP0I2_Z;3eWRFTenUnTk12
+!i103 1
+S1
+R10
+R35
+R36
+R37
+!i122 2169
+R29
+R11
+31
+R12
+R38
+R39
+!i113 0
+R6
+R3
+vchapter61
+R7
+DXx4 work 17 chapter61_sv_unit 0 22 @N2NI>;W5nF6P?Hi?M=f@0
+Z40 !s110 1732973635
+R5
+r1
+!s85 0
+!i10b 1
+!s100 0led]hT8k6a@Y`E4@FTGm3
+IgV;N_O^[j80iC4in:SnMe2
+!s105 chapter61_sv_unit
+S1
+R10
+Z41 w1732966172
+Z42 8../chapter 6/chapter61.sv
+Z43 F../chapter 6/chapter61.sv
+!i122 2170
+L0 16 17
+R11
+31
+R12
+Z44 !s107 ../chapter 6/chapter61.sv|
+Z45 !s90 ../chapter 6/chapter61.sv|
+!i113 0
+R6
+R3
+Xchapter61_sv_unit
+R7
+R40
+V@N2NI>;W5nF6P?Hi?M=f@0
+r1
+!s85 0
+!i10b 1
+!s100 Ch@N90AH6HkgX>flN:G>m2
+I@N2NI>;W5nF6P?Hi?M=f@0
+!i103 1
+S1
+R10
+R41
+R42
+R43
+!i122 2170
+R29
+R11
+31
+R12
+R44
+R45
+!i113 0
+R6
+R3
+vchapter62
+R7
+DXx4 work 17 chapter62_sv_unit 0 22 h9::@^^d_fE;M@Xfob@jN1
+!s110 1732971711
+R5
+r1
+!s85 0
+!i10b 1
+!s100 8]]@7TZcHoDElL`Kl;1U`1
+I@4giX69ODP2Od9We44i`O3
+!s105 chapter62_sv_unit
+S1
+R10
+w1732971251
+Z46 8../chapter 6/chapter62.sv
+Z47 F../chapter 6/chapter62.sv
+!i122 2052
+L0 18 44
+R11
+31
+!s108 1732971711.000000
+Z48 !s107 ../chapter 6/chapter62.sv|
+Z49 !s90 ../chapter 6/chapter62.sv|
+!i113 0
+R6
+R3
+Xchapter62_sv_unit
+R7
+R40
+V4V5QBb?Q1A7j[G8R9STcO3
+r1
+!s85 0
+!i10b 1
+!s100 d>KQbFAVS26VS<5Bz0EL33
+I4V5QBb?Q1A7j[G8R9STcO3
+!i103 1
+S1
+R10
+w1732972170
+R46
+R47
+!i122 2171
+R29
+R11
+31
+Z50 !s108 1732973635.000000
+R48
+R49
+!i113 0
+R6
+R3
+vchapter64
+R7
+DXx4 work 17 chapter64_sv_unit 0 22 llTj5e1D9_eTZ2iCoDWSk1
+R40
+R5
+r1
+!s85 0
+!i10b 1
+!s100 `C9Zj=LXCD41ZjH?L]fW:2
+IS9UZHGgXDJcV>lcSAkid_2
+!s105 chapter64_sv_unit
+S1
+R10
+Z51 w1732972570
+Z52 8../chapter 6/chapter64.sv
+Z53 F../chapter 6/chapter64.sv
+!i122 2172
+L0 18 71
+R11
+31
+R50
+Z54 !s107 ../chapter 6/chapter64.sv|
+Z55 !s90 ../chapter 6/chapter64.sv|
+!i113 0
+R6
+R3
+Xchapter64_sv_unit
+R7
+R40
+VllTj5e1D9_eTZ2iCoDWSk1
+r1
+!s85 0
+!i10b 1
+!s100 jF9ZB2O^LaClQ<WKM84Ho0
+IllTj5e1D9_eTZ2iCoDWSk1
+!i103 1
+S1
+R10
+R51
+R52
+R53
+!i122 2172
+R29
+R11
+31
+R50
+R54
+R55
+!i113 0
+R6
+R3
+vmemory
+R7
+!s110 1732367174
+!i10b 1
+!s100 M3K`hUoj4kdjknnc1LUkI3
+R9
+I_^CPJ@eC3G]fTioe8og;Q2
+S1
+R10
+w1732113080
+R19
+R20
+!i122 195
+L0 1 29
+R5
