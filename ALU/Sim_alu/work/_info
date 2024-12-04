@@ -1,0 +1,120 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1733306796
+V`aE=2KVeWP69@]A26e?]X3
+Z2 04 6 4 work alu_tb fast 0
+=1-7c10c9285140-675029ac-67-18d0
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1733307555
+V_5Pl;JhC>7?>4Yd46i<@G1
+R2
+=1-7c10c9285140-67502ca2-351-b68
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R5
+n@_opt1
+R6
+T_opt2
+!s110 1733306596
+V^VR[Xm3ALo^XWh6B6AUQT1
+04 5 4 work alu_t fast 0
+=1-7c10c9285140-675028e4-1fb-5d70
+R3
+R4
+R5
+n@_opt2
+R6
+R1
+valu
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1733306772
+!i10b 1
+!s100 HEA<S6C<>EEXc;YNFijZT2
+I?Q4[]fMgTk]6W;R>1NHme1
+S1
+Z9 dD:/SystemVerilog/Excercise/Sim
+w1733306198
+8D:/SystemVerilog/Excercise/Sim/alu.sv
+FD:/SystemVerilog/Excercise/Sim/alu.sv
+!i122 19
+L0 2 17
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1733306772.000000
+!s107 D:/SystemVerilog/Excercise/Sim/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/SystemVerilog/Excercise/Sim/alu.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+valu_t
+R7
+!s110 1733303263
+!i10b 1
+!s100 `NOjoaiDN@KS3ZYUW9Rcl1
+IW<fEKoWVe>E8ZU3X?mOl[0
+S1
+R9
+w1733303259
+8D:\SystemVerilog\Excercise\Sim\alu_1.sv
+FD:\SystemVerilog\Excercise\Sim\alu_1.sv
+!i122 1
+L0 2 191
+R10
+R11
+r1
+!s85 0
+31
+!s108 1733303263.000000
+!s107 D:\SystemVerilog\Excercise\Sim\alu_1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:\SystemVerilog\Excercise\Sim\alu_1.sv|
+!i113 0
+R13
+R5
+valu_tb
+R7
+R8
+!i10b 1
+!s100 1bSNgW8JEFQ4z]M4o57B62
+I_SLLA6IK=TY;e0zXTk@6^3
+S1
+R9
+w1733306766
+8D:/SystemVerilog/Excercise/Sim/alu_tb.sv
+FD:/SystemVerilog/Excercise/Sim/alu_tb.sv
+!i122 20
+L0 1 142
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 D:/SystemVerilog/Excercise/Sim/alu_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/SystemVerilog/Excercise/Sim/alu_tb.sv|
+!i113 0
+R13
+R5
