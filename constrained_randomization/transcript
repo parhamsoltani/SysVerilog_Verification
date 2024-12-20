@@ -1,0 +1,222 @@
+# Reading pref.tcl
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+do sim.tcl
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Copying C:/questasim64_2021.1/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:33:26 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34):         constrained_memtrans trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34): (vlog-2244) Variable 'trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Compiling package constrained_memtrans_sv_unit
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34): (vlog-2244) Variable 'trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Compiling module test
+# 
+# Top level modules:
+# 	test
+# End time: 17:33:26 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB constrained_memtrans 
+# Start time: 17:33:26 on Dec 14,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Error: (vopt-13130) Failed to find design unit constrained_memtrans.
+#         Searched libraries:
+#             work
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./sim.tcl PAUSED at line 52
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:35:26 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34):         constrained_memtrans trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34): (vlog-2244) Variable 'trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Skipping module test
+# -- Skipping package constrained_memtrans_sv_unit
+# 
+# Top level modules:
+# 	test
+# End time: 17:35:26 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# ** Error: Unrecognized dataset prefix: sim
+# Error in macro ./wave/wave.tcl line 2
+# Unrecognized dataset prefix: sim
+#     while executing
+# "add wave -position insertpoint sim:/constrained_memtrans/*"
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# /D﬘讦❵耀ents/systemvﬞ讠⡩耀og_for_verif﬜订⥡耀ion/Excercis﬒讬⩣耀nstrained_ra﬐议⭯耀ization
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:36:27 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34):         constrained_memtrans trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34): (vlog-2244) Variable 'trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Skipping module test
+# -- Skipping package constrained_memtrans_sv_unit
+# 
+# Top level modules:
+# 	test
+# End time: 17:36:27 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# ** Error: No Design Loaded!
+# Error in macro ./sim.tcl line 64
+# No Design Loaded!
+#     while executing
+# "run -all"
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# fi樂갦♳言lsasspirpc
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:37:00 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34):         constrained_memtrans trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv(34): (vlog-2244) Variable 'trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Skipping module test
+# -- Skipping package constrained_memtrans_sv_unit
+# 
+# Top level modules:
+# 	test
+# End time: 17:37:00 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# ** Error: No Design Loaded!
+# Error in macro ./sim.tcl line 64
+# No Design Loaded!
+#     while executing
+# "run -all"
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:38:23 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+# -- Compiling package constrained_memtrans_sv_unit
+# -- Compiling module test
+# 
+# Top level modules:
+# 	test
+# End time: 17:38:24 on Dec 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# ** Error: No Design Loaded!
+# Error in macro ./sim.tcl line 64
+# No Design Loaded!
+#     while executing
+# "run -all"
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# constrained_memtrans
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 17:40:12 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv 
+# ** Error: (vlog-7) Failed to open design unit file "C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 17:40:12 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_r..."
+# End time: 17:43:47 on Dec 14,2024, Elapsed time: 0:10:21
+# Errors: 6, Warnings: 0

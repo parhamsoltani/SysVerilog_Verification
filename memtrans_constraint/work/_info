@@ -1,0 +1,38 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/memtrans_constraint
+Xmemtrans_constraint_sv_unit
+!s10a 1733857437
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1733857534
+VSFA^9RMFDf`ceYDoYa_Te3
+r1
+!s85 0
+!i10b 1
+!s100 :9oi8<bK;XVlKonZck@=E0
+ISFA^9RMFDf`ceYDoYa_Te3
+!i103 1
+S1
+R0
+w1733857437
+8C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/memtrans_constraint/memtrans_constraint.sv
+FC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/memtrans_constraint/memtrans_constraint.sv
+!i122 0
+L0 1 0
+OL;L;2021.1;73
+31
+!s108 1733857534.000000
+!s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/memtrans_constraint/memtrans_constraint.sv|
+!s90 -reportprogress|300|-vopt|-sv|+acc|-incr|-source|+define+SIM|+incdir+../src/inc|C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/memtrans_constraint/memtrans_constraint.sv|
+!i113 0
+o-sv +acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv +acc -source +define+SIM +incdir+../src/inc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

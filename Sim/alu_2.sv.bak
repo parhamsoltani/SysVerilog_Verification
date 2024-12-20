@@ -1,0 +1,25 @@
+
+module alu_tb;
+  // Signals
+  bit clk;
+  reg wire rst;
+  reg wire signed [3:0] A, B;
+  logic [1:0] opcode;
+  reg signed [4:0] C;
+  
+  // Clock generation
+  initial begin
+    clk = 0;
+    forever #5 clk = ~clk;
+  end
+  
+  // DUT instantiation
+  alu DUT (
+    .clk(clk),
+    .rst(rst),
+    .A(A),
+    .B(B),
+    .opcode(opcode),
+    .C(C)
+  );
+ 

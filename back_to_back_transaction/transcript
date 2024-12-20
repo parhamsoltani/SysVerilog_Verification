@@ -1,0 +1,96 @@
+# Reading pref.tcl
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+pwd
+# C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction
+do sim.tcl
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Copying C:/questasim64_2021.1/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# rand_transaction
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 18:23:37 on Dec 14,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv(47):         RandTransaction rand_trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv(47): (vlog-2244) Variable 'rand_trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Compiling package rand_transaction_sv_unit
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv(47): (vlog-2244) Variable 'rand_trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# -- Compiling module rand_transaction
+# 
+# Top level modules:
+# 	rand_transaction
+# End time: 18:23:37 on Dec 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB rand_transaction 
+# Start time: 18:23:37 on Dec 14,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-8611) Generating debug db.
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv(47):         RandTransaction rand_trans = new();
+# 
+# ** Warning: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/back_to_back_transaction/rand_transaction.sv(47): (vopt-2244) Variable 'rand_trans' is implicitly static. You must either explicitly declare it as static or automatic
+# or remove the initialization in the declaration of variable.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading sv_std.std
+# Loading work.rand_transaction_sv_unit(fast)
+# Loading work.rand_transaction(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# ** UI-Msg: (vish-4014) No objects found matching '/rand_transaction/*'.
+# Error in macro ./wave/wave.tcl line 2
+# ** UI-Msg: (vish-4014) No objects found matching '/rand_transaction/*'.
+#     while executing
+# "add wave -position insertpoint sim:/rand_transaction/*"
+add wave -position insertpoint sim:/rand_transaction/*
+# ** UI-Msg: (vish-4014) No objects found matching '/rand_transaction/*'.
+add wave -position insertpoint sim:/rand_transaction_sv_unit/*
+# ** UI-Msg: (vish-4014) No objects found matching '/rand_transaction_sv_unit/*'.
+run all
+# Invalid time value: all
+run -all
+# 
+# Generated Transactions:
+# Index	Type	Address		Data
+# ----------------------------------------
+# 0	WRITE	9dde0c5f	5fa453cb
+# 1	READ	faa1d257	bd10738b
+# 2	READ	4dcb82eb	f5912e09
+# 3	READ	f29fc3bf	bc2865ef
+# 4	WRITE	a8f54a3c	a82d574c
+# 5	READ	6e5ef41d	353f2110
+# 6	READ	d1058e86	b6edfad
+# 7	READ	42f43456	3d6ec63b
+# 8	WRITE	785a3767	2169fffb
+# 9	READ	e6254882	e6ce4f2f
+# 10	WRITE	926b991b	db4d209e
+# 11	READ	f1d063e5	ba6411a2
+# 12	WRITE	e6f15622	10bff22c
+# 13	READ	2fffa005	6cb26ae4
+# 14	READ	453ee8a8	c7ff442b
+# 15	WRITE	c03090c	3061e684
+# 16	READ	af2265fb	897f77ca
+# 17	READ	71857503	29cb97f2
+# 18	READ	7d983ae	6346c5d2
+# 19	WRITE	27573a1a	ed1dc8f4
+# End time: 18:27:08 on Dec 14,2024, Elapsed time: 0:03:31
+# Errors: 0, Warnings: 1

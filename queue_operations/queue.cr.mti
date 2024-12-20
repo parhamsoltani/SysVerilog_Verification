@@ -1,0 +1,15 @@
+D:/SystemVerilog/Excercise/queue_operations/queue_operations.sv {1 {vlog -work work -vopt -sv -stats=none {D:\SystemVerilog\Excercise\queue_operations\queue_operations.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module queue_operations
+
+Top level modules:
+	queue_operations
+
+} {} {}} D:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module queue_operations_tb
+
+Top level modules:
+	queue_operations_tb
+
+} {} {}}

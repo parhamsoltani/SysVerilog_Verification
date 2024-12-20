@@ -1,0 +1,64 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization
+Xconstrained_memtrans_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1734185303
+V]WeTJJBAY[Q377B6GaGSd3
+r1
+!s85 0
+!i10b 1
+!s100 =S?MHH6<U7a2VX[PeRJL^1
+I]WeTJJBAY[Q377B6GaGSd3
+!i103 1
+S1
+R0
+Z3 w1734185297
+Z4 8C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv
+Z5 FC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv
+!i122 1
+L0 1 0
+Z6 OL;L;2021.1;73
+31
+Z7 !s108 1734185303.000000
+!s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv|
+Z8 !s90 -reportprogress|300|-vopt|-sv|+acc|-incr|-source|+define+SIM|+incdir+../src/inc|C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv|
+!i113 0
+Z9 o-sv +acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -sv +acc -source +define+SIM +incdir+../src/inc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vtest
+R1
+DXx4 work 28 constrained_memtrans_sv_unit 0 22 ]WeTJJBAY[Q377B6GaGSd3
+R2
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 dgJjQDX4YCo2D7D4V@ee]3
+I8JHK=Jl^]8O_b7z@B_<:g2
+!s105 constrained_memtrans_sv_unit
+S1
+R0
+R3
+R4
+R5
+!i122 1
+L0 33 7
+R6
+31
+R7
+Z12 !s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/constrained_randomization/constrained_memtrans.sv|
+R8
+!i113 0
+R9
+R10
+R11

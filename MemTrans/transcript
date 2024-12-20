@@ -1,0 +1,182 @@
+# Reading pref.tcl
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+do sim.tcl
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Copying C:/questasim64_2021.1/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 19:44:25 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         Statistics stats;
+# 
+# ** Error: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): Invalid type 'Statistics'. Please check the type of the variable 'stats'.
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(8):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(8): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 19:44:26 on Dec 10,2024, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."
+ls
+# MemTrans_cpy.sv  modelsim.ini  tb          wlf     
+# MemTrans_tb.sv   scr           transcript  work    
+# files            sim.tcl       wave                
+pwd
+# C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 19:46:46 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         Statistics stats;
+# 
+# ** Error: C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): Invalid type 'Statistics'. Please check the type of the variable 'stats'.
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(8):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(8): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 19:46:46 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 19:55:24 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 19:55:24 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 20:11:06 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 20:11:07 on Dec 10,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 21:56:08 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 21:56:08 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# MemTrans_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 21:56:15 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv 
+###### C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5):         function void new();
+# 
+# ** Error: (vlog-13069) C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemTrans_cpy.sv(5): near "new": syntax error, unexpected "SystemVerilog keyword 'new'".
+# End time: 21:56:15 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_2021.1/win64/vlog failed.
+# Error in macro ./scr/compile_all.tcl line 5
+# C:/questasim64_2021.1/win64/vlog failed.
+#     while executing
+# "vlog -vopt -sv	+acc -incr -source +define+SIM +incdir+$include_path  C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/MemTrans/MemT..."

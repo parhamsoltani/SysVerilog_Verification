@@ -1,0 +1,75 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/advanced_oop/comparator_class
+T_opt
+!s110 1734525080
+V64n@MIQojGS7dP77?=RY71
+04 19 4 work comparator_class_tb fast 0
+=1-c4c6e677959b-6762c098-5-2be4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vcomparator_class_tb
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+DXx4 work 27 comparator_class_tb_sv_unit 0 22 _jO7^5>8e71nQ?DgMHR?>1
+Z3 !s110 1734525079
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 gL_ch<hJm4<4=EHFNQ7zE0
+I^F8<ozh8>=lJoUDR2cR6j1
+!s105 comparator_class_tb_sv_unit
+S1
+R0
+Z4 w1734524562
+Z5 8C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/advanced_oop/comparator_class/comparator_class_tb.sv
+Z6 FC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/advanced_oop/comparator_class/comparator_class_tb.sv
+!i122 0
+L0 8 38
+Z7 OL;L;2021.1;73
+31
+Z8 !s108 1734525079.000000
+Z9 !s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/advanced_oop/comparator_class/comparator_class_tb.sv|
+Z10 !s90 -reportprogress|300|-vopt|-sv|+acc|-incr|-source|+define+SIM|+incdir+../src/inc|C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/advanced_oop/comparator_class/comparator_class_tb.sv|
+!i113 0
+Z11 o-sv +acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 -sv +acc -source +define+SIM +incdir+../src/inc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xcomparator_class_tb_sv_unit
+R2
+R3
+V_jO7^5>8e71nQ?DgMHR?>1
+r1
+!s85 0
+!i10b 1
+!s100 Z8m``O37PAR70fFX8h3Jz3
+I_jO7^5>8e71nQ?DgMHR?>1
+!i103 1
+S1
+R0
+R4
+R5
+R6
+!i122 0
+L0 1 0
+R7
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+R1

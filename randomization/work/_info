@@ -1,0 +1,87 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization
+T_opt
+Z2 !s110 1733854732
+V@ATGbFjPU^`>FzN9n3kG20
+Z3 04 12 4 work exercise2_tb fast 0
+=1-c4c6e677959b-6758860c-293-3538
+Z4 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1733855687
+VlL4^=55__`fk^1z?VP1lT0
+R3
+=1-c4c6e677959b-675889c6-3d9-2570
+R4
+o-quiet -auto_acc_if_foreign -work work
+R5
+n@_opt1
+R6
+R1
+vexercise2_tb
+Z7 !s10a 1733854720
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+DXx4 work 20 exercise2_tb_sv_unit 0 22 ]N2AkAlbC;mi7m_eaXzSj2
+VDg1SIo80bB@j0V0VzS_@n1
+!i10b 1
+!s100 J:LCMAmCTM89ogCQ4MWD60
+I:k:UAzQ?1Kl1F[>LNi?PM0
+!s105 exercise2_tb_sv_unit
+S1
+R1
+Z9 w1733854720
+Z10 8C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv
+Z11 FC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv
+!i122 0
+L0 18 48
+Z12 OL;L;2021.1;73
+31
+Z13 !s108 1733854732.000000
+Z14 !s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv|
+Z15 !s90 -reportprogress|300|-vopt|-sv|+acc|-incr|-source|+define+SIM|+incdir+../src/inc|C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv|
+!i113 0
+Z16 o-sv +acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 !s92 -sv +acc -source +define+SIM +incdir+../src/inc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+Xexercise2_tb_sv_unit
+R7
+R8
+R2
+V]N2AkAlbC;mi7m_eaXzSj2
+r1
+!s85 0
+!i10b 1
+!s100 VLH^GXE^FI:Z^E>JYSij>0
+I]N2AkAlbC;mi7m_eaXzSj2
+!i103 1
+S1
+R1
+R9
+R10
+R11
+!i122 0
+L0 1 0
+R12
+31
+R13
+R14
+R15
+!i113 0
+R16
+R17
+R5

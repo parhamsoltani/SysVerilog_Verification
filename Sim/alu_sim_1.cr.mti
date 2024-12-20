@@ -1,0 +1,15 @@
+D:/SystemVerilog/Excercise/Sim/alu.sv {1 {vlog -work work -vopt -sv -stats=none D:/SystemVerilog/Excercise/Sim/alu.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/SystemVerilog/Excercise/Sim/alu_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/SystemVerilog/Excercise/Sim/alu_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}}

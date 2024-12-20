@@ -1,0 +1,387 @@
+# Reading pref.tcl
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ..
+# ../src/inc
+# exercise2_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 21:57:45 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv 
+# -- Skipping module exercise2_tb
+# -- Skipping package exercise2_tb_sv_unit
+# 
+# Top level modules:
+# 	exercise2_tb
+# End time: 21:57:46 on Dec 10,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB exercise2_tb 
+# Start time: 21:57:46 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# 
+# Address Distribution Histogram (Total samples: 1000)
+# ================================================
+# Address  0 (  9.9%): ******************** (99)
+# Address  1 (  6.3%): ************* (63)
+# Address  2 (  6.1%): ************* (61)
+# Address  3 (  7.2%): *************** (72)
+# Address  4 (  6.1%): ************* (61)
+# Address  5 (  4.4%): ********* (44)
+# Address  6 (  6.8%): ************** (68)
+# Address  7 (  6.2%): ************* (62)
+# Address  8 (  5.2%): *********** (52)
+# Address  9 (  4.1%): ********* (41)
+# Address 10 (  6.1%): ************* (61)
+# Address 11 (  4.7%): ********** (47)
+# Address 12 (  5.8%): ************ (58)
+# Address 13 (  4.9%): ********** (49)
+# Address 14 (  6.7%): ************** (67)
+# Address 15 (  9.5%): ******************* (95)
+# 
+# Statistics:
+# Address 0 & 15 (Expected 20%): 19.4%
+# Address 1-14 (Expected 80%): 80.6%
+vsim -sv_seed 42
+# No design specified
+add wave -position insertpoint  \
+sim:/exercise2_tb/address_count \
+sim:/exercise2_tb/ex2 \
+sim:/exercise2_tb/count_0_15 \
+sim:/exercise2_tb/count_1_14 \
+sim:/exercise2_tb/j
+vsim -sv_seed 42
+# No design specified
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vsim -sv_seed 42 exercise2_tb
+# End time: 22:04:46 on Dec 10,2024, Elapsed time: 0:07:00
+# Errors: 0, Warnings: 0
+# vsim -sv_seed 42 exercise2_tb 
+# Start time: 22:04:46 on Dec 10,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+run all
+# Invalid time value: all
+run -all
+# 
+# Address Distribution Histogram (Total samples: 1000)
+# ================================================
+# Address  0 ( 10.1%): ********************* (101)
+# Address  1 (  4.9%): ********** (49)
+# Address  2 (  5.3%): *********** (53)
+# Address  3 (  6.0%): ************ (60)
+# Address  4 (  6.9%): ************** (69)
+# Address  5 (  6.1%): ************* (61)
+# Address  6 (  4.1%): ********* (41)
+# Address  7 (  6.7%): ************** (67)
+# Address  8 (  5.6%): ************ (56)
+# Address  9 (  5.4%): *********** (54)
+# Address 10 (  7.0%): ************** (70)
+# Address 11 (  5.2%): *********** (52)
+# Address 12 (  5.1%): *********** (51)
+# Address 13 (  5.9%): ************ (59)
+# Address 14 (  5.1%): *********** (51)
+# Address 15 ( 10.6%): ********************** (106)
+# 
+# Statistics:
+# Address 0 & 15 (Expected 20%): 20.7%
+# Address 1-14 (Expected 80%): 79.3%
+add wave -position insertpoint  \
+sim:/exercise2_tb/address_count \
+sim:/exercise2_tb/ex2 \
+sim:/exercise2_tb/count_0_15 \
+sim:/exercise2_tb/count_1_14 \
+sim:/exercise2_tb/j
+run -all
+vsim -sv_seed 42 exercise2_tb
+# End time: 22:06:13 on Dec 10,2024, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 0
+# vsim -sv_seed 42 exercise2_tb 
+# Start time: 22:06:13 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+add wave -position insertpoint  \
+sim:/exercise2_tb/address_count \
+sim:/exercise2_tb/ex2 \
+sim:/exercise2_tb/count_0_15 \
+sim:/exercise2_tb/count_1_14 \
+sim:/exercise2_tb/j
+run -all
+# 
+# Address Distribution Histogram (Total samples: 1000)
+# ================================================
+# Address  0 ( 10.1%): ********************* (101)
+# Address  1 (  4.9%): ********** (49)
+# Address  2 (  5.3%): *********** (53)
+# Address  3 (  6.0%): ************ (60)
+# Address  4 (  6.9%): ************** (69)
+# Address  5 (  6.1%): ************* (61)
+# Address  6 (  4.1%): ********* (41)
+# Address  7 (  6.7%): ************** (67)
+# Address  8 (  5.6%): ************ (56)
+# Address  9 (  5.4%): *********** (54)
+# Address 10 (  7.0%): ************** (70)
+# Address 11 (  5.2%): *********** (52)
+# Address 12 (  5.1%): *********** (51)
+# Address 13 (  5.9%): ************ (59)
+# Address 14 (  5.1%): *********** (51)
+# Address 15 ( 10.6%): ********************** (106)
+# 
+# Statistics:
+# Address 0 & 15 (Expected 20%): 20.7%
+# Address 1-14 (Expected 80%): 79.3%
+
+
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# exercise2_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 22:08:40 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv 
+# -- Skipping module exercise2_tb
+# -- Skipping package exercise2_tb_sv_unit
+# 
+# Top level modules:
+# 	exercise2_tb
+# End time: 22:08:40 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 22:08:45 on Dec 10,2024, Elapsed time: 0:02:32
+# Errors: 0, Warnings: 0
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB exercise2_tb 
+# Start time: 22:08:45 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# ** Error: Cannot open macro file: wave/wave.tcl
+# Error in macro ./sim.tcl line 62
+# Cannot open macro file: wave/wave.tcl
+#     while executing
+# "do wave/wave.tcl"
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 汯潬ᨺታ⸠耀敲映牯猠ᨹቲὦ耀⁧湡䤠䕅ᨸቱ⽤耀㌷‵敖獲潩⁮′嘨
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# exercise2_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 22:10:09 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv 
+# -- Skipping module exercise2_tb
+# -- Skipping package exercise2_tb_sv_unit
+# 
+# Top level modules:
+# 	exercise2_tb
+# End time: 22:10:09 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 22:10:14 on Dec 10,2024, Elapsed time: 0:01:29
+# Errors: 1, Warnings: 0
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB exercise2_tb 
+# Start time: 22:10:14 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# ** UI-Msg: (vish-4014) No objects found matching '/exercise2_tb/ex2/*'.
+# Error in macro ./wave/wave.tcl line 2
+# ** UI-Msg: (vish-4014) No objects found matching '/exercise2_tb/ex2/*'.
+#     while executing
+# "add wave -position insertpoint sim:/exercise2_tb/*"
+add wave -position insertpoint sim:/exercise2_tb/*
+add wave -position insertpoint sim:/exercise2_tb_sv_unit/*
+# ** UI-Msg: (vish-4014) No objects found matching '/exercise2_tb_sv_unit/*'.
+add wave -position insertpoint sim:/exercise2_tb/*
+
+
+
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# exercise2_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 22:13:11 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv 
+# -- Skipping module exercise2_tb
+# -- Skipping package exercise2_tb_sv_unit
+# 
+# Top level modules:
+# 	exercise2_tb
+# End time: 22:13:11 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 22:13:16 on Dec 10,2024, Elapsed time: 0:03:02
+# Errors: 0, Warnings: 0
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB exercise2_tb 
+# Start time: 22:13:16 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# 
+# Address Distribution Histogram (Total samples: 1000)
+# ================================================
+# Address  0 (  9.9%): ******************** (99)
+# Address  1 (  6.3%): ************* (63)
+# Address  2 (  6.1%): ************* (61)
+# Address  3 (  7.2%): *************** (72)
+# Address  4 (  6.1%): ************* (61)
+# Address  5 (  4.4%): ********* (44)
+# Address  6 (  6.8%): ************** (68)
+# Address  7 (  6.2%): ************* (62)
+# Address  8 (  5.2%): *********** (52)
+# Address  9 (  4.1%): ********* (41)
+# Address 10 (  6.1%): ************* (61)
+# Address 11 (  4.7%): ********** (47)
+# Address 12 (  5.8%): ************ (58)
+# Address 13 (  4.9%): ********** (49)
+# Address 14 (  6.7%): ************** (67)
+# Address 15 (  9.5%): ******************* (95)
+# 
+# Statistics:
+# Address 0 & 15 (Expected 20%): 19.4%
+# Address 1-14 (Expected 80%): 80.6%
+do sim.tcl
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2021.1 Lib Mapping Utility 2021.01 Jan 19 2021
+# vmap work work 
+# Modifying modelsim.ini
+# ** Error: 捁散獳椠⁳敤楮摥മ
+# 
+#        Unable to replace existing ini file (modelsim.ini).  File can not be renamed.
+# ..
+# ../src/inc
+# exercise2_tb
+# wlf/vsim.wlf
+# ref_sim
+# 5 ms
+# uut
+# QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+# Start time: 22:15:37 on Dec 10,2024
+# vlog -reportprogress 300 -vopt -sv "+acc" -incr -source "+define+SIM" "+incdir+../src/inc" C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/randomization/exercise2_tb.sv 
+# -- Skipping module exercise2_tb
+# -- Skipping package exercise2_tb_sv_unit
+# 
+# Top level modules:
+# 	exercise2_tb
+# End time: 22:15:37 on Dec 10,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 22:15:43 on Dec 10,2024, Elapsed time: 0:02:27
+# Errors: 0, Warnings: 0
+# vsim -wlf wlf/vsim.wlf -wlfopt -wlfslim 10000 -wlftlim 500 ms -voptargs="+acc" -debugDB exercise2_tb 
+# Start time: 22:15:43 on Dec 10,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.exercise2_tb_sv_unit(fast)
+# Loading work.exercise2_tb(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# 
+# Address Distribution Histogram (Total samples: 1000)
+# ================================================
+# Address  0 (  9.9%): ******************** (99)
+# Address  1 (  6.3%): ************* (63)
+# Address  2 (  6.1%): ************* (61)
+# Address  3 (  7.2%): *************** (72)
+# Address  4 (  6.1%): ************* (61)
+# Address  5 (  4.4%): ********* (44)
+# Address  6 (  6.8%): ************** (68)
+# Address  7 (  6.2%): ************* (62)
+# Address  8 (  5.2%): *********** (52)
+# Address  9 (  4.1%): ********* (41)
+# Address 10 (  6.1%): ************* (61)
+# Address 11 (  4.7%): ********** (47)
+# Address 12 (  5.8%): ************ (58)
+# Address 13 (  4.9%): ********** (49)
+# Address 14 (  6.7%): ************** (67)
+# Address 15 (  9.5%): ******************* (95)
+# 
+# Statistics:
+# Address 0 & 15 (Expected 20%): 19.4%
+# Address 1-14 (Expected 80%): 80.6%
+# End time: 22:20:19 on Dec 10,2024, Elapsed time: 0:04:36
+# Errors: 0, Warnings: 0

@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/thread
+vmain
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1734195017
+!i10b 1
+!s100 RdEAJ3zH>n4@KzFc770^I0
+IlSOaXiCnF:1H2QOfRHEM@2
+S1
+R0
+w1734195012
+8C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/thread/wait10_semaphore.sv
+FC:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/thread/wait10_semaphore.sv
+!i122 0
+L0 2 31
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1734195017.000000
+!s107 C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/thread/wait10_semaphore.sv|
+!s90 -reportprogress|300|-vopt|-sv|+acc|-incr|-source|+define+SIM|+incdir+../src/inc|C:/Users/Nazanin/Documents/systemverilog_for_verification/Excercise/thread/wait10_semaphore.sv|
+!i113 0
+o-sv +acc -source -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv +acc -source +define+SIM +incdir+../src/inc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

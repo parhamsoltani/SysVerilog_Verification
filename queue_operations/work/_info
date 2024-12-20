@@ -1,0 +1,106 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1733311951
+VXPz9S8YJn>fLmajFG7PaE3
+04 19 4 work queue_operations_tb fast 0
+=1-7c10c9285140-67503dce-339-46d4
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1733311969
+V3N=OQzJ[2;5fzL7NO6SBX3
+04 16 4 work queue_operations fast 0
+=1-7c10c9285140-67503de1-2ba-34c8
+R2
+R3
+R4
+n@_opt1
+R5
+vqueue_operations
+Z6 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z7 !s110 1733311931
+!i10b 1
+!s100 J`PWjlSaUgM7HoKD8RLA:2
+IlF0_:0bM6@8E<S7X>DcKe3
+S1
+Z8 dD:/SystemVerilog/Excercise/queue_operations
+w1733311873
+8D:\SystemVerilog\Excercise\queue_operations\queue_operations.sv
+FD:\SystemVerilog\Excercise\queue_operations\queue_operations.sv
+!i122 3
+L0 1 52
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1733311931.000000
+!s107 D:\SystemVerilog\Excercise\queue_operations\queue_operations.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:\SystemVerilog\Excercise\queue_operations\queue_operations.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vqueue_operations_tb
+R6
+R7
+!i10b 1
+!s100 z=K[jkNoD]VT]flAC]mlc3
+IjMmhUSWOY`F1a2az50BI<0
+S1
+R8
+w1733311927
+Z13 8D:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv
+Z14 FD:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv
+!i122 4
+Z15 L0 2 19
+R9
+R10
+r1
+!s85 0
+31
+R11
+Z16 !s107 D:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv|
+Z17 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/SystemVerilog/Excercise/queue_operations/queue_operations_tb.sv|
+!i113 0
+R12
+R4
+vtb_queue_operations
+R6
+!s110 1733311877
+!i10b 1
+!s100 VdSz;KMMLY7T06JOgLNXN2
+I]mCK<55B3_JQVoz0eGiW12
+S1
+R8
+w1733311748
+R13
+R14
+!i122 2
+R15
+R9
+R10
+r1
+!s85 0
+31
+!s108 1733311877.000000
+R16
+R17
+!i113 0
+R12
+R4
